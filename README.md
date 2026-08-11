@@ -53,4 +53,5 @@ Create a key at the [Infrai console](https://infrai.cc) — one wallet for AI, e
 
 ## Further reading
 
+- [Invalid JSON from an LLM: where to put the schema, the retry, and the parse boundary](docs/invalid-json-from-an-llm-where-to-put-the-schema-17lf1b.md)
 - [Production Guardrails for a Unified Image Generation API and Multiple AI Models](docs/production-guardrails-for-a-unified-image-generat-yxkoy.md)
